@@ -1,4 +1,4 @@
-# Wazuh-SIEM-Lab-SOC-Implementation-for-Endpoint-Monitoring-And-Threat-Detection
+# Endpoint Monitoring And Threat Detection With Wazuh
 
 This project explores **Security Operations and Monitoring** concepts, focusing on building a small-scale SOC using Wazuh. It covers:
 - Log collection, management, and analysis
