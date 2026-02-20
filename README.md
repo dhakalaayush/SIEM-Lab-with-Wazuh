@@ -7,7 +7,7 @@ This project explores **Security Operations and Monitoring** concepts, focusing 
 - Threat hunting, active response (firewall drop), malware detection
 - Alerting (email) and incident response lifecycle (NIST-based)
 
-![Dashboard](images/Wazuh Home Dashboard.png)
+![Dashboard](Pictures/Wazuh Home Dashboard.png)
 
 Tools
 - Wazuh
