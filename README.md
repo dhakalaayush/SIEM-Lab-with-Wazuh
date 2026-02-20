@@ -20,11 +20,17 @@ Highlights
 - Lab setup: Installed Wazuh agents in all VMs
 - Sysmon setup: Sysmon was setup on Windows for logging
 - File Integrity Monitoring (FIM): Real-time file/registry change detection
+- Configuration Assessment: System configuration evaluation
+![Alt text](images/Configuration_Assessment.png)
 - Vulnerability Detection: CVE scanning + NIST lookup
+![Alt text](images/Vulnerability_Detection.png)
 - Threat Hunting: Dashboard queries, brute-force simulation
+![Alt text](images/Threat_Hunting.png)
 - Active Response: Firewall drop on repeated failures
 - Malware Detection: VirusTotal scan
+![Alt text](images/Malware_Detection.png)
 - Alert: Email on high-severity events
+![Alt text](images/Email_Alert.png)
 
 Full Documentation
 - Complete Report: (https://github.com/dhakalaayush/SIEM-Lab-with-Wazuh/blob/main/Security%20Operations%20and%20Monitoring.pdf)
