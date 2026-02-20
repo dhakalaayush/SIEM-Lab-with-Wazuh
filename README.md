@@ -7,6 +7,8 @@ This project explores **Security Operations and Monitoring** concepts, focusing 
 - Threat hunting, active response (firewall drop), malware detection
 - Alerting (email) and incident response lifecycle (NIST-based)
 
+![Dashboard](images/Wazuh Home Dashboard.png)
+
 Tools
 - Wazuh
 - Agents: Ubuntu (manager and agent), Kali Linux (attacker and agent), Windows (agent with sysmon)
