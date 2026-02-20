@@ -30,7 +30,6 @@ Highlights
 - Malware Detection: VirusTotal scan
 ![Malware Detection](Pictures/Malware_Detection.png)
 - Alert: Email on high-severity events
-![Email Alert](Pictures/Email_Alert.png)
 
 Full Documentation
 - Complete Report: (https://github.com/dhakalaayush/SIEM-Lab-with-Wazuh/blob/main/Security%20Operations%20and%20Monitoring.pdf)
