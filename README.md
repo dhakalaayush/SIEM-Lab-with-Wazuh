@@ -21,14 +21,22 @@ Highlights
 - Sysmon setup: Sysmon was setup on Windows for logging
 - File Integrity Monitoring (FIM): Real-time file/registry change detection
 - Configuration Assessment: System configuration evaluation
+
 ![Configuration Assessment](Pictures/Configuration_Assessment.png)
+
 - Vulnerability Detection: CVE scanning + NIST lookup
-![Vulnerability Detection](Pictures/Vulnerability_Detection.png)
+
+![Vulnerability Detection](Pictures/Vulnerabilities_Detection.png)
+
 - Threat Hunting: Dashboard queries, brute-force simulation
+
 ![Threat Hunting](Pictures/Threat_Hunting.png)
+
 - Active Response: Firewall drop on repeated failures
 - Malware Detection: VirusTotal scan
+
 ![Malware Detection](Pictures/Malware_Detection.png)
+
 - Alert: Email on high-severity events
 
 Full Documentation
